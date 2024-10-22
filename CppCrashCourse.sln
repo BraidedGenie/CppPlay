@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppCrashCourse", "CppCrashCourse\CppCrashCourse.vcxproj", "{19643319-13E1-494A-AD77-8BC042FD2FFC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1", "Chapter1\Chapter1.vcxproj", "{19643319-13E1-494A-AD77-8BC042FD2FFC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter2", "Chapter2\Chapter2.vcxproj", "{FB97AA8D-44CA-43E7-8DFC-D2247AFE3BA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +20,13 @@ Global
 		{19643319-13E1-494A-AD77-8BC042FD2FFC}.Release|Win32.Build.0 = Release|Win32
 		{19643319-13E1-494A-AD77-8BC042FD2FFC}.Release|x64.ActiveCfg = Release|x64
 		{19643319-13E1-494A-AD77-8BC042FD2FFC}.Release|x64.Build.0 = Release|x64
+		{FB97AA8D-44CA-43E7-8DFC-D2247AFE3BA3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB97AA8D-44CA-43E7-8DFC-D2247AFE3BA3}.Debug|Win32.Build.0 = Debug|Win32
+		{FB97AA8D-44CA-43E7-8DFC-D2247AFE3BA3}.Debug|x64.ActiveCfg = Debug|x64
+		{FB97AA8D-44CA-43E7-8DFC-D2247AFE3BA3}.Debug|x64.Build.0 = Debug|x64
+		{FB97AA8D-44CA-43E7-8DFC-D2247AFE3BA3}.Release|Win32.ActiveCfg = Release|Win32
+		{FB97AA8D-44CA-43E7-8DFC-D2247AFE3BA3}.Release|Win32.Build.0 = Release|Win32
+		{FB97AA8D-44CA-43E7-8DFC-D2247AFE3BA3}.Release|x64.ActiveCfg = Release|x64
+		{FB97AA8D-44CA-43E7-8DFC-D2247AFE3BA3}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal

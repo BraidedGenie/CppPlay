@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
     // printf("The absolute value of %d is %d.\n", my_num, absolute_value(my_num));
 
     // 1-4
-    int num1 = 54;
+    int num1 = 55;
     int num2 = 35;
 
     printf("The sum of %d and %d is %d.\n", num1, num2, sum(num1, num2));
